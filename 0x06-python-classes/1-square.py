@@ -4,7 +4,7 @@
 
 class Square:
     """This is the class square"""
-    def __init(self, size):
+    def __init__(self, size):
         """create a constructor
         Args:
         size (intgeer) size of the square"""
