@@ -1,1 +1,2 @@
-Understanding Object Relational Mapping
+ORM: Understanding DB using Python script
+
