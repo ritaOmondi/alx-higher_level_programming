@@ -11,7 +11,7 @@ function writeToFile(filePath, content) {
 }
 
 // Usage example
-const filePath = process.argv[2]; // First command-line argument
-const stringToWrite = process.argv[3]; // Second command-line argument
+//const filePath = process.argv[2]; // First command-line argument
+//const stringToWrite = process.argv[3]; // Second command-line argument
 
-writeToFile(filePath, stringToWrite);
+//writeToFile(filePath, stringToWrite);
